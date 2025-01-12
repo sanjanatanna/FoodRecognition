@@ -1,4 +1,4 @@
-### Food Recognition and Nutritional Analysis
+# Food Recognition and Nutritional Analysis
 
 ## Overview
 This project implements a food recognition system that classifies images of food items and provides nutritional information for the identified food. The solution leverages TensorFlow, MobileNetV2, and additional tools for image preprocessing, data augmentation, and model evaluation.
